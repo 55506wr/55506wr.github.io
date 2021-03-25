@@ -1,0 +1,40 @@
+.block-center{margin-left:auto!important;margin-right:auto!important;}.casino-offer-ftd.rox20 .test-a .hero-content{margin-top:0;}.test-b-wrap .content-block{background-color: rgba(0,0,0,0.3);position:relative;}.apps-coverflow-wrap{position:relative;overflow:hidden;width:100%;display:block;background-color:#333;}#preloader{background-color:#333;}.test-b .lang-switcher{display:none;}.test-b .ab-redify{-webkit-text-fill-color:#f0a638;background:rgba(0,0,0,0) none repeat scroll 0 0;text-shadow:0 3px 10px #000;}.test-b .hero-btn{border-radius:0px!important;background:#f0a638;color:#fff;font-weight:bold;margin-bottom:0px;display:inline-block;text-align:center;line-height:1;cursor:pointer;-webkit-appearance:none;transition:background-color .25s ease-out,color .25s ease-out;vertical-align:middle;border:1px solid transparent;padding:1.2em 4em;margin:0 0 1rem;font-size: 18px;width: 50%;}
+.test-b .hero-btn:hover{background:#f7c882}
+.test-b .hero-cta .button,.test-b .footer-cta .button{font-size:2.0rem;}.my-flipster li{list-style-type:none;display:inline-block;width: 15%;    cursor: pointer;transition:width 0.25s ease-out;}.my-flipster img{border:5px solid #fff;width:100%;outline:1px solid transparent;}@media screen and (min-width: 64em) {.my-flipster{width:100%;margin:0 auto;}.test-a>.row,.test-b>.row{max-width:78rem;}.headline-wrap{margin-top:20px;}body.test-b{background-size:cover;background-repeat:no-repeat;background-position:center center;}.test-b .redify{-webkit-text-fill-color:#f0a638;background:rgba(0,0,0,0) none repeat scroll 0 0;text-shadow:0 3px 10px #000;}.target{width:400px;height:740px;}.test-b .lang-switcher{display:none;}.test-b .hero-cta{margin-top:40px;margin-bottom:20px;}.test-b footer{background-color:#202020;}.test-b .ups-row{background-color:#202020;}.test-b .ups-row img{height:60px;}.test-b .cascading-games-row{min-height:220px;}.test-b .footer-content{padding:20px 20px 36px;width:100%;margin-top:15px;}.test-b footer p{font-size:0.80rem;margin-bottom:0;}.test-b .apps-coverflow-wrap{height:280px;}.headline-wrap{margin-top:20px;}}@media screen and (min-height: 920px) {.test-b-wrap .content-block{height:100vh;}}@media screen and (min-width : 1281px) {.test-b .footer-content{padding:15px 15px 26px;margin-top:0px;}}
+@media screen and (min-width : 1441px) {.title4_0rem{font-size:5.0rem!important;line-height:4rem!important;}.test-b .footer-content{position:relative;margin-bottom:-7px;}}
+
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {.test-b .hero-cta{margin-top:40px;margin-bottom:20px;}.test-b .footer-content{padding:20px 20px 36px;width:100%;}}
+@media screen and (max-width: 39.9375em) {.test-b .hero-cta .button,.test-b .footer-cta .button{font-size:1.2rem;}.test-b-wrap .content-block{height:auto;}.test-b .lang-switcher{display:none;}.test-b .hero-cta{margin-top:40px;margin-bottom:20px;}.test-b footer{background-color:#202020;}.test-b .ups-row{margin:0 auto;background-color:#202020;}.test-b .ups-row img{height:40px;}.test-b .cascading-games-row{margin:0 auto;min-height:120px;}.test-b .footer-content{padding:20px;width:100%;position:relative;}.test-b footer p{font-size:0.80rem;margin-bottom:0;}
+
+@media only screen 
+  and (max-device-width : 320px) 
+  and (orientation : portrait) {
+  }
+  /* Galaxy S5 */
+  @media only screen 
+  and (min-device-width : 360px) 
+  and (max-device-width : 640px) 
+  and (orientation : portrait) { 
+
+  }          
+  /* iPHONE 6 */
+  @media only screen 
+  and (min-device-width : 375px) 
+  and (max-device-width : 667px) 
+  and (orientation : portrait) {
+
+  }       
+  /* iPHONE 6+ */
+  @media only screen 
+  and (min-device-width : 414px) 
+  and (max-device-width : 736px) 
+  and (orientation : portrait) {
+    .test-b-wrap .content-block {  }
+    .test-b .footer-content { margin-bottom: -15px;position:relative; }
+  }
+	.flipster__container{width: 240%;}  
+	.paddingvertical-large{padding-top: 0px;  padding-bottom: 0px; }
+	.my-flipster{overflow-x: scroll;}
+	.test-b .hero-btn{width: 90%;}
+}
+.promshow{    width: 22% !important};
